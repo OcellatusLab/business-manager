@@ -6,8 +6,11 @@ use Illuminate\Http\Request;
 
 class EmpresaController extends Controller
 {
-    public function index(){
-        
+    public function index(){        
 
+    }
+
+    public function create(){
+        
     }
 }
